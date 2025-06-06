@@ -50,12 +50,9 @@ Modify your code to output a couple of summary data:
 
 ## Submission
 
-Please share with me a GitHub repo in which you have stored your code. I will be looking at your code style, commenting, tests, edge case 
-handling, README clarity, etc. Your task should run successfully and be tidily documented in line with your current best ability. If you
-have the time, add tests for extra points (no test input included, so might need to create test files from the sample given). 
+Please share with us a private GitHub repo with your code. We will be looking at your code style, commenting, edge case 
+handling, README clarity, etc. Your task should run successfully and be tidily documented in line with your current best ability.
 
-Resourcefulness is a virtue! Feel free to use existing packages  that might make this task simpler. You may also find solutions posted for
-similar tasks—great! Just please clearly cite any code you re-use.
-
-Last but not least, I'd appreciate it if you kept your full revision history for this project in the Github repo. I won't go snooping deep
-into your history so don't be bashful. I just want to get a sense for how you chunk your commits and what your messages are like.
+While working on the assignment, feel free to look things up—Google, Stack Overflow, ChatGPT, whatever helps.
+Just make sure to drop a short comment in your code noting any external sources you draw on.
+We won’t deduct points for using these aids.
