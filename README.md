@@ -47,16 +47,6 @@ Modify your code to output a couple of summary data:
 * Which speaker talked the most (cumulatively)? 
 * Which speaker had the most **non-speaking** turns (where instead of any annotations, there is only `0.`)?
 
-### Level 4:
-
-Turns out, we would like to keep track of each annotation in the eaf! Create a database (e.g. sqlite) and an appropriate scheme to track annotations such that we can uniquely identify
-each annotation. To be more specific, whenever someone uses your script from the previous levels, the script should, in addition to the previous tasks, register each annotation in the 
-database. Ideally, we would like to be able to query this database for useful information, so write a few examples (e.g. query all annotations above a certain duration from a specific 
-file.). This task is intentionally somewhat vague: we are more interested in your general thought process at arriving a solution and attention to detail in a solid implementation than 
-an exact answer to a simple problem. It's ok to make assumptions, but do provide your reasoning. As a simple example of solid implementation, your script should absolutely be able to 
-handle being run on the same file twice. Feel free to use any technologies you are familiar with, but sqlite is suggested since it might be easier to work with. There are two eaf files, 
-but feel free to find/generate your own examples!
-
 
 ## Submission
 
